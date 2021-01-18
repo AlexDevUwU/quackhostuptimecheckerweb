@@ -1,15 +1,13 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: AlexDevUwU # Your GitHub username
+repo: quackhostuptimecheckerweb # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: QuackHost Client
+    url: https://client.quackhost.uk/
+  - name: QuackHost GameCP
+    url: https://gamecp.quackhost.uk/
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD

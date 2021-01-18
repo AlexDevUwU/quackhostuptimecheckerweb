@@ -19,7 +19,7 @@ status-website:
   baseUrl: /quackhostuptimecheckerweb # where "repo" is your repository name
   logoUrl: https://client.quackhost.uk/assets/img/logo.png
   name: QuackHost Custom Uptime Checker
-  introTitle: "**QuackHost Uptime Checker** es un uptime checker creado únicamente con herramientas de githug."
+  introTitle: "**QuackHost Uptime Checker** es un uptime checker creado únicamente con herramientas de GitHub."
   introMessage: "Creado por AlexDevUwU"
   navbar:
     - title: Estado

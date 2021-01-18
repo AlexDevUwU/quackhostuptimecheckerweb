@@ -8,27 +8,23 @@ sites:
     url: https://client.quackhost.uk/
   - name: QuackHost GameCP
     url: https://gamecp.quackhost.uk/
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: FIFR3 CPU API
+    url: http://95.217.226.152:26002/cpu
+  - name: FIFR3 DISK API
+    url: http://95.217.226.152:26002/disk
+  - name: FIFR3 RAM API
+    url: http://95.217.226.152:26002/ram
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /quackhostuptimecheckerweb # where "repo" is your repository name
+  logoUrl: https://client.quackhost.uk/assets/img/logo.png
+  name: QuackHost Custom Uptime Checker
+  introTitle: "**QuackHost Uptime Checker** es un uptime checker creado únicamente con herramientas de githug."
+  introMessage: "Creado por AlexDevUwU"
   navbar:
-    - title: Status
+    - title: Estado
       href: /
-    - title: GitHub
+    - title: Github
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more

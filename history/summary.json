@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/client.quackhost.uk",
     "slug": "quack-host-client",
     "status": "down",
-    "uptime": "4.54%",
-    "uptimeDay": "4.54%",
-    "uptimeWeek": "4.54%",
-    "uptimeMonth": "4.54%",
-    "uptimeYear": "4.54%",
+    "uptime": "1.24%",
+    "uptimeDay": "1.24%",
+    "uptimeWeek": "1.24%",
+    "uptimeMonth": "1.24%",
+    "uptimeYear": "1.24%",
     "time": 139,
     "timeDay": 139,
     "timeWeek": 139,
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2021-01-18": 0
+      "2021-01-18": 1
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/gamecp.quackhost.uk",
     "slug": "quack-host-game-cp",
     "status": "down",
-    "uptime": "1.35%",
-    "uptimeDay": "1.35%",
-    "uptimeWeek": "1.35%",
-    "uptimeMonth": "1.35%",
-    "uptimeYear": "1.35%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 63,
     "timeDay": 63,
     "timeWeek": 63,
     "timeMonth": 63,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2021-01-18": 0
+      "2021-01-18": 1
     }
   },
   {
@@ -82,7 +82,7 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",

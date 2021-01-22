@@ -22,19 +22,19 @@
     "url": "https://gamecp.quackhost.uk/",
     "icon": "https://favicons.githubusercontent.com/gamecp.quackhost.uk",
     "slug": "quack-host-game-cp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 595,
-    "timeWeek": 434,
-    "timeMonth": 434,
-    "timeYear": 434,
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "98.88%",
+    "time": 535,
+    "timeDay": 912,
+    "timeWeek": 535,
+    "timeMonth": 535,
+    "timeYear": 535,
     "dailyMinutesDown": {
-      "2021-01-22": 0
+      "2021-01-22": 56
     }
   },
   {

@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/client.quackhost.uk",
     "slug": "quack-host-client",
     "status": "down",
-    "uptime": "41.29%",
+    "uptime": "41.23%",
     "uptimeDay": "22.69%",
-    "uptimeWeek": "29.81%",
+    "uptimeWeek": "29.00%",
     "uptimeMonth": "28.41%",
-    "uptimeYear": "41.29%",
+    "uptimeYear": "41.23%",
     "time": 1052,
     "timeDay": 451,
     "timeWeek": 1052,
     "timeMonth": 1070,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2021-02-28": 750,
+      "2021-02-28": 832,
       "2021-02-27": 1440,
       "2021-02-26": 1440,
       "2021-02-25": 1440,
@@ -54,11 +54,11 @@
     "icon": "https://favicons.githubusercontent.com/gamecp.quackhost.uk",
     "slug": "quack-host-game-cp",
     "status": "up",
-    "uptime": "53.66%",
+    "uptime": "53.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "54.65%",
-    "uptimeMonth": "45.44%",
-    "uptimeYear": "53.66%",
+    "uptimeMonth": "45.62%",
+    "uptimeYear": "53.72%",
     "time": 3857,
     "timeDay": 748,
     "timeWeek": 5055,
@@ -101,9 +101,9 @@
     "url": "http://95.217.226.152:26002/cpu",
     "icon": "https://favicons.githubusercontent.com/95.217.226.152",
     "slug": "fifr-3-cpu-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,16 +112,18 @@
     "timeWeek": 1343,
     "timeMonth": 1321,
     "timeYear": 1338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-28": 0
+    }
   },
   {
     "name": "FIFR3 DISK API",
     "url": "http://95.217.226.152:26002/disk",
     "icon": "https://favicons.githubusercontent.com/95.217.226.152",
     "slug": "fifr-3-disk-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,16 +132,18 @@
     "timeWeek": 163,
     "timeMonth": 150,
     "timeYear": 161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-28": 0
+    }
   },
   {
     "name": "FIFR3 RAM API",
     "url": "http://95.217.226.152:26002/ram",
     "icon": "https://favicons.githubusercontent.com/95.217.226.152",
     "slug": "fifr-3-ram-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -148,6 +152,8 @@
     "timeWeek": 157,
     "timeMonth": 146,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-28": 0
+    }
   }
 ]
